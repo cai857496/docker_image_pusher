@@ -1,5 +1,5 @@
-openexplorer/ai_toolchain_ubuntu_gpu:v1.13.6
 openexplorer/ai_toolchain_centos_7:v1.13.6
+openexplorer/ai_toolchain_ubuntu_gpu:v1.13.6
 
-openexplorer/ai_toolchain_ubuntu_20_xj3_gpu:v2.6.4
 openexplorer/ai_toolchain_ubuntu_20_xj3_cpu:v2.6.4
+openexplorer/ai_toolchain_ubuntu_20_xj3_gpu:v2.6.4
